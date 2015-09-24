@@ -1,6 +1,7 @@
-##ManifestFile
+## ManifestFile
+
 Manifest File uses certain permissions; for this project, I did not code a dialog to ask user for permission
-####PLEASE ASK USER FOR PERMISSION TO USE FEATURES, FOR THE LOVE OF GOD
+### PLEASE ASK USER FOR PERMISSION TO USE FEATURES, FOR THE LOVE OF GOD
 
 ```
 <?xml version="1.0" encoding="utf-8"?>
