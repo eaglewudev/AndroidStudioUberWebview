@@ -1,5 +1,6 @@
-##AndroidStudioUberWebview
-#WebView set to match dimensions of your android phone; set to uber mobile website. Great Format for setting up Web-Apps.
+##AndroidStudioUberWebview 
+
+WebView set to match dimensions of your android phone; set to uber mobile website. Great Format for setting up Web-Apps.
 Language:Java
 //Import Statements
 ```
